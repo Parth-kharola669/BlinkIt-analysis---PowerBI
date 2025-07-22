@@ -89,5 +89,5 @@ The key business challenge is to analyze historical sales performance, identify 
 
 7 - Screenshot
 
-Example [ 
+Example [ https://github.com/Parth-kharola669/BlinkIt-analysis---PowerBI/blob/main/Sanpshot%20of%20the%20PowerBi%20dashboard.png ]
 
